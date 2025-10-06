@@ -63,7 +63,7 @@
 <p>Insurance charges increase up to 3 dependents, then decline slightly, suggesting family size correlates moderately with cost, but not linearly.</p>
 <p><b>Actionable:</b> Insurance pricing models could use <b>tiered family-based coverage.</b></p>
 
-## Correlation Insights, Rounded To The Nearest Integer w/SQL Code
+## Correlation Insights, Rounded To The Nearest Decimal Point w/SQL Code
 <p><b>Age:</b> 0.3</p>
 <p><b>BMI:</b> 0.2</p>
 <p><b>Children:</b> 0.1</p>
